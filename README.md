@@ -14,7 +14,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Dave%20look%20so%20engrossed%20.PNG)
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/main/darkcity.jpg)
 
 <!-- Add your details -->
 
